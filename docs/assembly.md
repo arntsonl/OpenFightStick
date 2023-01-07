@@ -1,6 +1,6 @@
 # Version 1.0 : The Boom Box
 
-![Verison 1.0](_media/Version1_Top-Explode.jpg ":size=600")
+![Verison 1.0](/_media/Version1_Top-Explode.jpg ":size=600")
 
 ## 3D Printer Requirements
 

@@ -15,7 +15,7 @@ The Open Fight Stick 3D (OFS3D) is a 3D printable modular arcade stick designed 
 ## Builds
 
 ### Version 1.0 - Project Boom Box
-![Open Fight Stick V1 3D Render](assets/Render01.jpg "Render of OFS3D v1")
+![Open Fight Stick V1 3D Render](/_media/Render01.jpg "Render of OFS3D v1")
 
 * Created in Fusion 360 (Non-Commercial License)
 * Easy to print pieces
