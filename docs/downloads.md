@@ -1,14 +1,7 @@
 # Downloads
 
-## Printable Links
-
-* Printables.com
-* Thingiverse.com
-
-## STL/STEP Models
-
-* Github.com
-* Github.com
+* [Printables.com Download](https://www.printables.com/model/362200-ofs3d-3d-printable-arcade-stick-v1-boombox)
+* [Github.com](https://github.com/arntsonl/OpenFightStick/)
 
 ## Fusion 360 Source
 
